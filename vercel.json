@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/logo.svg", "destination": "/logo.svg" }
+    { "source": "/(.*)", "destination": "/" }
   ]
 }
